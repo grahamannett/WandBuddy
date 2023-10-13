@@ -1,0 +1,15 @@
+[project]
+name = "WandBuddy"
+version = "0.1.0"
+description = "wandb helper"
+authors = [
+    {name = "graham", email = "graham.annett@gmail.com"},
+]
+dependencies = []
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "None"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
